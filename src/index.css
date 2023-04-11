@@ -1,0 +1,10 @@
+div {
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+}
+
+div.big {
+  width: 151px;
+  height: 151px;
+}
